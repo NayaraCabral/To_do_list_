@@ -1,10 +1,10 @@
-# To_do_list_
+
+
+#Projeto "To do list" - CRUD sem conexão com banco de dados- Desenv. para Dispositivo
 <br>
 
-### Projeto "To do list" - CRUD sem conexão com banco de dados- Desenv. para Dispositivo
 
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+> :construction: Projeto em construção :construction:
 
 
 
@@ -23,7 +23,11 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-> :construction: Projeto em construção :construction:
+
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+
 
 # :hammer: Funcionalidades do projeto
 
@@ -31,6 +35,7 @@
 - `Funcionalidade 2`: descrição da funcionalidade 2
 - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
+
 
 # 📁 Acesso ao projeto
 
